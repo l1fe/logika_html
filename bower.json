@@ -1,0 +1,16 @@
+{
+  "name": "logikaru",
+  "authors": [
+    "l1fe <igor.naumov.17@gmail.com>"
+  ],
+  "description": "Logika Website",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}
